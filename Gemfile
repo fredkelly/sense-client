@@ -1,3 +1,4 @@
-source 'https://rubygems.org/'
+source 'https://rubygems.org'
 
-gem 'oauth2', '~> 1.2'
+# Specify your gem's dependencies in sense-client.gemspec
+gemspec

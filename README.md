@@ -4,7 +4,7 @@ Quick and dirty Ruby client for the Hello Sense sleep tracker.
 ## Ussage
 ### Logging in:
 ```ruby
-client = Sense.new
+client = Sense::Client.new
 client.login MY_USERNAME, MY_PASSWORD
 ```
 ### Room conditions
